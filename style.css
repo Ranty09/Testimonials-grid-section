@@ -81,11 +81,11 @@ section img{
  section h1{
   font-size: 1.2rem;
   margin-bottom: 0.8rem;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.3rem;
  }
  section p{
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   line-height: 1.2rem;
  }
  @media (max-width: 768px){
@@ -97,4 +97,5 @@ section img{
   section{
     padding: 2rem 3.5rem;
   }
+
  }
